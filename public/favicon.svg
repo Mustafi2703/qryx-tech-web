@@ -1,13 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Navy background with rounded corners -->
   <rect width="32" height="32" rx="7" fill="#16325A"/>
-  <text
-    x="16"
-    y="23"
-    font-family="'Plus Jakarta Sans', 'Inter', Arial, sans-serif"
-    font-size="20"
-    font-weight="800"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="-0.5"
-  >Q</text>
+  <!-- Q: white ring (circle stroke) -->
+  <circle cx="15" cy="14.5" r="6.5" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <!-- Q: tail stroke, bottom-right -->
+  <line x1="19.5" y1="18.5" x2="25" y2="25" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 </svg>
