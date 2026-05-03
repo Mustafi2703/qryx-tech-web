@@ -85,8 +85,8 @@ const RefundPolicy = () => {
             <h2 className="font-display text-xl font-semibold text-foreground mb-3">4. Cancellation by Client</h2>
             <p className="text-muted-foreground">
               To cancel an engagement, the client must notify QRYX Tech in writing via email to{" "}
-              <a href="mailto:hello@qryxtech.com" className="text-accent underline underline-offset-2 hover:opacity-80">
-                hello@qryxtech.com
+              <a href="mailto:connect@qryxtech.com" className="text-accent underline underline-offset-2 hover:opacity-80">
+                connect@qryxtech.com
               </a>.
               Cancellations become effective upon written acknowledgement from our side.
               The following notice periods apply:
@@ -134,8 +134,8 @@ const RefundPolicy = () => {
             <h2 className="font-display text-xl font-semibold text-foreground mb-3">6. Dispute Resolution</h2>
             <p className="text-muted-foreground">
               If you are dissatisfied with any aspect of our service, please contact us at{" "}
-              <a href="mailto:hello@qryxtech.com" className="text-accent underline underline-offset-2 hover:opacity-80">
-                hello@qryxtech.com
+              <a href="mailto:connect@qryxtech.com" className="text-accent underline underline-offset-2 hover:opacity-80">
+                connect@qryxtech.com
               </a>{" "}
               before raising a dispute. We aim to resolve all issues within 5 business days.
             </p>
@@ -147,8 +147,8 @@ const RefundPolicy = () => {
               <p className="font-semibold text-foreground">QRYX Tech Private Limited</p>
               <p className="text-muted-foreground">
                 Email:{" "}
-                <a href="mailto:hello@qryxtech.com" className="text-accent hover:opacity-80">
-                  hello@qryxtech.com
+                <a href="mailto:connect@qryxtech.com" className="text-accent hover:opacity-80">
+                  connect@qryxtech.com
                 </a>
               </p>
               <p className="text-muted-foreground">Website: qryxtech.com</p>

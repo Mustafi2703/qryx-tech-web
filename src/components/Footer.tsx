@@ -40,8 +40,8 @@ const Footer = () => {
           <p className="text-xs text-primary-foreground/40">
             © {new Date().getFullYear()} QRYX Tech Private Limited. All rights reserved.
           </p>
-          <a href="mailto:hello@qryxtech.com" className="text-xs text-primary-foreground/40 hover:text-primary-foreground/70 transition-colors">
-            hello@qryxtech.com
+          <a href="mailto:connect@qryxtech.com" className="text-xs text-primary-foreground/40 hover:text-primary-foreground/70 transition-colors">
+            connect@qryxtech.com
           </a>
         </div>
       </div>

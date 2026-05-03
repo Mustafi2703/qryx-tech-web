@@ -204,8 +204,8 @@ const PrivacyPolicy = () => {
             </ul>
             <p className="text-muted-foreground mt-3">
               To exercise any of these rights, please contact us at{" "}
-              <a href="mailto:hello@qryxtech.com" className="text-accent underline underline-offset-2 hover:opacity-80">
-                hello@qryxtech.com
+              <a href="mailto:connect@qryxtech.com" className="text-accent underline underline-offset-2 hover:opacity-80">
+                connect@qryxtech.com
               </a>.
               We will respond within 30 days.
             </p>
@@ -263,8 +263,8 @@ const PrivacyPolicy = () => {
               <p className="font-semibold text-foreground">QRYX Tech Private Limited</p>
               <p className="text-muted-foreground">
                 Email:{" "}
-                <a href="mailto:hello@qryxtech.com" className="text-accent hover:opacity-80">
-                  hello@qryxtech.com
+                <a href="mailto:connect@qryxtech.com" className="text-accent hover:opacity-80">
+                  connect@qryxtech.com
                 </a>
               </p>
               <p className="text-muted-foreground">Website: qryxtech.com</p>

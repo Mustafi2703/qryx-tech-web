@@ -40,13 +40,13 @@ const CTASection = () => {
                 WhatsApp — Chat with us directly
               </a>
               <a
-                href="mailto:hello@qryxtech.com"
+                href="mailto:connect@qryxtech.com"
                 className="flex items-center gap-3 text-sm text-foreground hover:text-accent transition-colors"
               >
                 <div className="w-10 h-10 rounded-md bg-secondary flex items-center justify-center">
                   <Mail className="w-4 h-4 text-primary" />
                 </div>
-                hello@qryxtech.com
+                connect@qryxtech.com
               </a>
             </div>
           </div>
