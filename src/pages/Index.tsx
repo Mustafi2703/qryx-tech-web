@@ -7,6 +7,7 @@ import ClientsSection from "@/components/ClientsSection";
 import WhySection from "@/components/WhySection";
 import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
+import CookieConsent from "@/components/CookieConsent";
 
 const Index = () => {
   return (
@@ -20,6 +21,7 @@ const Index = () => {
       <WhySection />
       <CTASection />
       <Footer />
+      <CookieConsent />
     </div>
   );
 };
