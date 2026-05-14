@@ -29,6 +29,9 @@ const Footer = () => {
             <Link to="/refund-policy" className="text-xs text-primary-foreground/60 hover:text-primary-foreground transition-colors">
               Refund Policy
             </Link>
+            <Link to="/data-deletion" className="text-xs text-primary-foreground/60 hover:text-primary-foreground transition-colors">
+              Data Deletion
+            </Link>
           </div>
         </div>
 
